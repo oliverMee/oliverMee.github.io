@@ -9,46 +9,27 @@ categories: [Android]
 
 ## 每周推荐
 
-[AndroidDeveloper Weekly No.4](http://stormzhang.com/weekly/2016/08/08/android-developer-weekly-no-4/)
+[要取代 Node.js 的 Deno 还活着吗?](https://csdnnews.blog.csdn.net/article/details/121393492?spm=1000.2115.3001.5927)
 
-[Android开源项目推荐之「网络请求哪家强」](http://stormzhang.com/opensource/2016/08/05/android-open-source-project-recommend2/)
+[微软：今天起加速推广Windows 11，让更多设备免费升级](https://blog.csdn.net/super111t/article/details/121371814?spm=1000.2115.3001.5927)
 
-[如何发现优秀的开源项目？](http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/)
+[Meta 研发触觉手套助力元宇宙，虚拟世界也可以有触觉](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/121383980?spm=1000.2115.3001.5927)
 
-[给 Android 初学者的 Gradle 知识普及](http://stormzhang.com/android/2016/07/02/gradle-for-android-beginners/)
+[一文搞懂SaaS困境、API经济与Serverless WebAssembly](https://blog.csdn.net/weixin_42376823/article/details/121362233?spm=1000.2115.3001.5927)
 
 
 ## 精品文章系列
 
-[AndroidDeveloper Weekly 系列](http://stormzhang.com/weekly/2016/07/26/android-developer-weekly/)
+[IBM推出新款量子芯片，预计两年内击败传统计算机](https://blog.csdn.net/m0_59537084/article/details/121352027?spm=1000.2115.3001.5927)
 
-[从0开始学习 GitHub 系列汇总](http://stormzhang.com/github/2016/06/19/learn-github-from-zero-summary/)
+[问鼎EDA顶会冠军之后，我们还有哪些路要走？](https://blog.csdn.net/BEYONDMA/article/details/121300820?spm=1000.2115.3001.5927)
 
-[自学 Android 编程系列](http://stormzhang.com/android/2016/06/10/learn-android-byself/)
+[瞰见｜即将上市的云明星 HashiCorp 走过的开源之路](https://blog.csdn.net/OpenTEKr/article/details/121285901?spm=1000.2115.3001.5927)
 
-[Android Studio 详细教程汇总](http://stormzhang.com/devtools/2015/06/17/android-studio-all)
+[Dockershim即将被正式废弃，你准备好了吗？](https://blog.csdn.net/super111t/article/details/121361603?spm=1000.2115.3001.5927)
 
 [靠谱VPN推荐--云梯VPN](http://refyt.com/?r=a9b90a505050781a)
 
-## 微信公众号近期文章
-
-[少年，别再收藏文章了！](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661932&idx=1&sn=8325f8bd782a376434a5bf69e4f38dee#rd)
-
-[我面试到底问什么？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661871&idx=1&sn=158c380826bb9138fdb2976152dc279b#rd)
-
-[自学编程这几点非常重要](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661865&idx=1&sn=085e2be66714763b5550c54e9253883a#rd)
-
-[公众号历史精品文章汇总](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=503177922&idx=1&sn=6ef35c039a6564b1cec6343754a6c004&scene=23&srcid=0527Py9mKBRTPAWeo7GkikDO#rd)
-
-<!-- <a href="http://m.jianxun.io/event/2?from=stormzhang"><img src="http://www.jianxun.io/ad/20151101/eventno2-stormzhang-banner.png" /></a> -->
-
-## 我的GitHub开源项目
-
-[9GAG](https://github.com/stormzhang/9GAG)
-
-[CustomLoading](https://github.com/stormzhang/CustomLoading)
-
-[SwipeRefreshLayoutDemo](https://github.com/stormzhang/SwipeRefreshLayoutDemo)
 
 <br />
 
