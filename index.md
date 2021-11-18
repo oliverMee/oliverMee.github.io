@@ -1,6 +1,6 @@
 ---
 layout: page
-title: stormzhang博客精华
+title: oliverMee博客精华
 keywords: stormzhang, storm, android, java, android developer, android开发, android技术分享, performance
 description: Focus Android, Love Open Source, Performance Optimization, Coding now
 categories: [Android]
@@ -17,10 +17,6 @@ categories: [Android]
 
 [给 Android 初学者的 Gradle 知识普及](http://stormzhang.com/android/2016/07/02/gradle-for-android-beginners/)
 
-
-* 我的微信公众号: AndroidDeveloper「googdev」 (专注Android的原创分享，关注并回复googdev自学Android资料免费获取)
-
-<img src="/image/weixinpublic.jpg" />
 
 ## 精品文章系列
 
